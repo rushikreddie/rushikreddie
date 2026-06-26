@@ -1,29 +1,25 @@
 <div align="center">
-
 <!-- Replace 'banner.png' with your actual image filename after uploading to your repo -->
 <img src="ai-banner.jpeg" alt="Rushik Reddy" width="100%" style="border-radius: 12px;" />
-
 <br/>
 
 # Hi, I'm Nalla Rushik Reddy 👋
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushik-reddy-0898b9249)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushikreddie)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nallarushikreddy)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushikreddy77@gmail.com)
-
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 **B.Tech in CSE (Artificial Intelligence)** — Dr. M.G.R. Educational and Research Institute, Chennai `CGPA: 8.66/10`
-- 💼 **AI Intern** at Unified Mentor Pvt. Ltd. — building Python-based ML & AI solutions
-- 🔬 **Published Researcher** — Presented at the 13th International Conference on Contemporary Engineering & Technology (OSIET × Samarkand State University, Uzbekistan)
-- 🌱 Currently deepening skills in **Machine Learning**, **Computer Vision**, and **Data Science**
-- ⚡ Fun fact: I scored **97.8%** in Intermediate — and still chose to dive into AI 🤖
+- 🔭 I'm **Data & ML Enthusiast**
+- 👯 I'm looking to collaborate on **Open Source Projects , Hackathons**
+- 🤝 I'm looking for help with **ML Engineer, AI Engineer Positions**
+- 📫 How to reach me **rushikreddy17@gmail.com**
+- 📄 Look at my Portfolio - [My Portfolio](https://personal-portfolio-ten-tau-55.vercel.app/home)
 
 ---
 
@@ -38,6 +34,7 @@
 ### Libraries & Frameworks
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
@@ -52,18 +49,11 @@
 
 ---
 
-## 📊 GitHub Stats
+##  📈 Stats
 
-<div align="center">
+<div align="left">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rushikreddie&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikreddie&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
-
-<div align="center">
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=rushikreddie&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rushikreddie&theme=default&hide_border=true" />
 
 </div>
 
@@ -73,6 +63,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rushikreddie&style=flat-square&color=6366f1)
 
-*"Building intelligent systems, one model at a time."*
+*Every dataset tells a story — I help it speak.*
 
 </div>
