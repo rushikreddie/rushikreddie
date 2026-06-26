@@ -53,7 +53,7 @@ class RushikReddy:
 </td>
 <td valign="top" width="45%" align="center">
 
-<img src="https://assets.gatesnotes.com/8a5ac0b3-6095-00af-c50a-89056fbe4642/e675f5c2-624b-4efd-b82f-99e8a6ed968b/AI.jpeg" width="100%" style="border-radius: 16px;" alt="AI Brain"/>
+<img src="./ai-banner.jpeg" width="100%" style="border-radius: 16px;" alt="AI Brain"/>
 
 </td>
 </tr>
