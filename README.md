@@ -8,18 +8,21 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushik-reddy-0898b9249)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushikreddie)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nallarushikreddy)
-[![Gmail](https://codebasics.io/portfolio/Nalla-Rushik-Reddy)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushikreddy17@gmail.com)
+
+---
+
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔭 I'm **Data & ML Enthusiast**
-- 👯 I'm looking to collaborate on **Open Source Projects , Hackathons**
+- 🔭 I'm a **Data & ML Enthusiast**
+- 👯 I'm looking to collaborate on **Open Source Projects, Hackathons**
 - 🤝 I'm looking for help with **ML Engineer, AI Engineer Positions**
-- 📫 How to reach me **rushikreddy17@gmail.com**
-- 📄 Look at my Portfolio - [My Portfolio]([https://personal-portfolio-ten-tau-55.vercel.app/home](https://codebasics.io/portfolio/Nalla-Rushik-Reddy))
+- 📫 How to reach me: **rushikreddy17@gmail.com**
+- 📄 Look at my Portfolio - [My Portfolio](https://codebasics.io/portfolio/Nalla-Rushik-Reddy)
 
 ---
 
